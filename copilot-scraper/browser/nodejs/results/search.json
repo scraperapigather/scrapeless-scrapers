@@ -1,0 +1,22 @@
+{
+  "query": "top 3 smartphones in 2025, compare pricing across US marketplaces",
+  "url": "https://copilot.microsoft.com/chats/8f2a1c6d-4b90-4e21-9c3a-7d51e0b2af44",
+  "answer_text": "Here are three of the strongest smartphones in 2025 with US marketplace pricing. The Apple iPhone 16 is the best all-around pick at a $799 starting price, the Samsung Galaxy S25 is the top Android flagship at $799.99, and the Google Pixel 9a is the best value at $499. On the used market the Galaxy S25 averages around $469 while the iPhone 16 averages around $613, making the Samsung the cheaper flagship on resale and the Pixel 9a the lowest-cost option overall at launch. If you want a tighter retail-by-retail view I can break out Amazon, Best Buy, and Walmart pricing separately.",
+  "citations": [
+    {
+      "url": "https://www.businessinsider.com/guides/tech/best-phones",
+      "domain": "businessinsider.com",
+      "title": "Best phones in 2025"
+    },
+    {
+      "url": "https://swappa.com/prices",
+      "domain": "swappa.com",
+      "title": "Swappa used phone prices"
+    },
+    {
+      "url": "https://www.phonearena.com/news/Budget-affordable-cheap-low-cost-smartphones-android-this-year_id58696",
+      "domain": "phonearena.com",
+      "title": "Best budget phones this year"
+    }
+  ]
+}
