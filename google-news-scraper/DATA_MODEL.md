@@ -2,7 +2,7 @@
 
 Single source of truth for the Python (cerberus) and Node (zod) schemas under [`python/`](python/) and [`nodejs/`](nodejs/).
 
-The scraper drives `https://news.google.com/search?q=<query>&hl=en` (and topic pages of the same shape) through Scrapeless's [Scraping Browser](https://www.scrapeless.com/en/scraping-browser) and extracts the article cards rendered inside each `<article>` tag.
+The scraper drives `https://news.google.com/search?q=<query>&hl=en` (and topic pages of the same shape) through Scrapeless's [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser) and extracts the article cards rendered inside each `<article>` tag.
 
 ## Article — emitted by `scrape_news`
 

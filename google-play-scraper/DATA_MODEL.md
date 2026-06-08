@@ -2,7 +2,7 @@
 
 Single source of truth for the Python (cerberus) and Node (zod) schemas under [`python/`](python/) and [`nodejs/`](nodejs/).
 
-The scraper drives `https://play.google.com/store/apps/details?id=<package>` through Scrapeless's [Scraping Browser](https://www.scrapeless.com/en/scraping-browser) and parses the embedded `application/ld+json` `SoftwareApplication` blob plus a small number of DOM helpers.
+The scraper drives `https://play.google.com/store/apps/details?id=<package>` through Scrapeless's [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser) and parses the embedded `application/ld+json` `SoftwareApplication` blob plus a small number of DOM helpers.
 
 ## App — emitted by `scrape_app`
 

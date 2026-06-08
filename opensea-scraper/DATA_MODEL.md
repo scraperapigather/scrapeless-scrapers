@@ -2,7 +2,7 @@
 
 Single source of truth for the Python (cerberus) and Node (zod) schemas under [`python/`](python/) and [`nodejs/`](nodejs/).
 
-OpenSea ships its data inside Next.js + urql hydration blobs embedded as `(window[Symbol.for("urql_transport")] ??= []).push({...})` script blocks. The scraper renders the page in Scrapeless's [Scraping Browser](https://www.scrapeless.com/en/scraping-browser), extracts every `urql_transport` payload, and folds the GraphQL responses into the shapes below.
+OpenSea ships its data inside Next.js + urql hydration blobs embedded as `(window[Symbol.for("urql_transport")] ??= []).push({...})` script blocks. The scraper renders the page in Scrapeless's [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser), extracts every `urql_transport` payload, and folds the GraphQL responses into the shapes below.
 
 ## Collection — emitted by `scrape_collection`
 

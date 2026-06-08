@@ -2,7 +2,7 @@
 
 > **Status: Preview.** Microsoft Copilot returns no assistant answer to an unauthenticated session (the page shows *Sign in*), so this scraper submits the prompt but cannot capture the reply without a signed-in Scrapeless session profile. The composer selector is live-verified; the answer selectors are illustrative and the committed `results/*.json` are schema-valid samples **pending live verification**. The shape in [`DATA_MODEL.md`](DATA_MODEL.md) is the stable contract.
 
-[copilot.microsoft.com](https://copilot.microsoft.com/) scraper powered by [Scrapeless](https://www.scrapeless.com/). Every surface drives a Scrapeless cloud [Scraping Browser](https://www.scrapeless.com/en/scraping-browser) and emits identical JSON shapes — see [`DATA_MODEL.md`](DATA_MODEL.md).
+[copilot.microsoft.com](https://copilot.microsoft.com/) scraper powered by [Scrapeless](https://www.scrapeless.com/). Every surface drives a Scrapeless cloud [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser) and emits identical JSON shapes — see [`DATA_MODEL.md`](DATA_MODEL.md).
 
 ## Surfaces
 
@@ -71,7 +71,9 @@ This repository is **educational reference material** that demonstrates how Scra
 ## Powered by Scrapeless
 
 - 🌐 Website: https://www.scrapeless.com
-- 🧭 Scraping Browser: https://www.scrapeless.com/en/scraping-browser
+- 🧭 Scraping Browser: https://www.scrapeless.com/en/product/scraping-browser
 - 📚 API docs: https://apidocs.scrapeless.com
 - 📝 Blog: https://www.scrapeless.com/en/blog
+- 💬 Discord: https://discord.gg/VU2vtbq7Q2
+- ✈️ Telegram: https://t.me/scrapeless
 - 🚀 Free signup: https://app.scrapeless.com/passport/register?utm_source=github&utm_medium=partnership&utm_campaign=scrapeless_scrapers

@@ -2,7 +2,7 @@
 
 > **Status: Preview.** Google Gemini requires a signed-in Google account, so this scraper needs an authenticated Scrapeless session profile to return answers. Selectors are illustrative and the committed `results/*.json` are schema-valid samples **pending live verification**. The shape in [`DATA_MODEL.md`](DATA_MODEL.md) is the stable contract.
 
-[gemini.google.com](https://gemini.google.com/) scraper powered by [Scrapeless](https://www.scrapeless.com/). Every surface drives a Scrapeless cloud [Scraping Browser](https://www.scrapeless.com/en/scraping-browser) and emits identical JSON shapes — see [`DATA_MODEL.md`](DATA_MODEL.md).
+[gemini.google.com](https://gemini.google.com/) scraper powered by [Scrapeless](https://www.scrapeless.com/). Every surface drives a Scrapeless cloud [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser) and emits identical JSON shapes — see [`DATA_MODEL.md`](DATA_MODEL.md).
 
 ## Authentication
 
@@ -76,7 +76,9 @@ This repository is **educational reference material** that demonstrates how Scra
 ## Powered by Scrapeless
 
 - 🌐 Website: https://www.scrapeless.com
-- 🧭 Scraping Browser: https://www.scrapeless.com/en/scraping-browser
+- 🧭 Scraping Browser: https://www.scrapeless.com/en/product/scraping-browser
 - 📚 API docs: https://apidocs.scrapeless.com
 - 📝 Blog: https://www.scrapeless.com/en/blog
+- 💬 Discord: https://discord.gg/VU2vtbq7Q2
+- ✈️ Telegram: https://t.me/scrapeless
 - 🚀 Free signup: https://app.scrapeless.com/passport/register?utm_source=github&utm_medium=partnership&utm_campaign=scrapeless_scrapers

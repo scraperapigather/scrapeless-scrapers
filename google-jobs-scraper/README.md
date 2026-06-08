@@ -1,6 +1,6 @@
 # Google Jobs scraper
 
-[Google Jobs](https://www.google.com/search?q=software+engineer+jobs) scraper powered by [Scrapeless](https://www.scrapeless.com/). Every surface drives a Scrapeless cloud [Scraping Browser](https://www.scrapeless.com/en/scraping-browser) and emits identical JSON shapes — see [`DATA_MODEL.md`](DATA_MODEL.md).
+[Google Jobs](https://www.google.com/search?q=software+engineer+jobs) scraper powered by [Scrapeless](https://www.scrapeless.com/). Every surface drives a Scrapeless cloud [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser) and emits identical JSON shapes — see [`DATA_MODEL.md`](DATA_MODEL.md).
 
 Google renders a Jobs panel inside its standard SERP when a job-related query is made. The panel
 data is embedded in the rendered HTML (not in `ld+json`) and parsed from the structured text of
@@ -48,7 +48,9 @@ This repository is **educational reference material** that demonstrates how Scra
 ## Powered by Scrapeless
 
 - 🌐 Website: https://www.scrapeless.com
-- 🧭 Scraping Browser: https://www.scrapeless.com/en/scraping-browser
+- 🧭 Scraping Browser: https://www.scrapeless.com/en/product/scraping-browser
 - 📚 API docs: https://apidocs.scrapeless.com
 - 📝 Blog: https://www.scrapeless.com/en/blog
+- 💬 Discord: https://discord.gg/VU2vtbq7Q2
+- ✈️ Telegram: https://t.me/scrapeless
 - 🚀 Free signup: https://app.scrapeless.com/passport/register?utm_source=github&utm_medium=partnership&utm_campaign=scrapeless_scrapers
