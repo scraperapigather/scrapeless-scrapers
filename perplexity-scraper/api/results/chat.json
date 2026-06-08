@@ -1,0 +1,73 @@
+{
+  "media_items": [
+    {
+      "image": "https://img.youtube.com/vi/Dg0ef8yG324/maxresdefault.jpg",
+      "locations": null,
+      "medium": "video",
+      "source": "youtube",
+      "thumbnail": "https://img.youtube.com/vi/Dg0ef8yG324/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=Dg0ef8yG324"
+    }
+  ],
+  "prompt": "What are the main differences between residential and datacenter proxies? Answer briefly.",
+  "related_prompt": [
+    "主要区别在于用途和性能差异是什么",
+    "住宅代理与数据中心代理的速度差异如何",
+    "住宅代理的费用和可用性与数据中心代理相比如何",
+    "在爬虫场景中应该选哪种代理更合适",
+    "两者在反检测能力上的区别有哪些"
+  ],
+  "result_text": "Here are the main differences, succinctly:\n\n- IP source\n  - Residential proxies use real IPs assigned to home users by ISPs.\n  - Datacenter proxies use IPs from servers in data centers. \n- Legitimacy and detectability\n  - Residential proxies typically blend in as ordinary user traffic and are harder for sites to block.\n  - Datacenter proxies tend to be flagged more easily by anti-bot systems due to consistent data-center patterns.\n- Speed and latency\n  - Datacenter proxies generally offer higher raw speeds and lower latency.\n  - Residential proxies have lower average speeds and can be less consistent due to home networks.\n- Availability and location options\n  - Residential proxies can provide broad geographic coverage with many city-level locations, reflecting real user dispersion.\n  - Datacenter proxies are concentrated in data-center locations and may have more limited geographic granularity.\n- Cost and throughput\n  - Residential proxies are usually more expensive per GB or per session but can achieve higher success on protected sites.\n  - Datacenter proxies are cheaper per IP and offer higher throughput for bulk tasks.\n- Use cases\n  - Residential proxies are favored for tasks requiring stealth, geo-spoofing with authentic-looking traffic, and avoiding blocks on protected sites.\n  - Datacenter proxies are favored for fast scraping, testing, and use cases where speed and cost efficiency trump stealth.\n\nIf you’d like, I can tailor the comparison to your specific needs (e.g., scraping, price sensitivity, target sites) and suggest a quick decision guide.\n\n[1]: https://www.joinmassive.com/blog/datacenter-vs-residential-proxies \"Datacenter vs Residential Proxies: 2025 Comparison Guide - Massive\"\n[2]: https://www.geeksforgeeks.org/blogs/difference-between-residential-proxies-and-datacenter-proxies/ \"Difference between Residential Proxies and Datacenter Proxies\"\n[3]: https://brightdata.com/blog/proxy-101/differences-between-datacenter-and-residential-proxies \"Datacenter vs. Residential Proxies - Complete Guide\"\n[4]: https://blog.froxy.com/en/residential-vs-datacenter-proxy \"Residential Proxy vs Datacenter Proxy: What to Choose\"\n[5]: https://www.scrapeless.com/en/blog/differences-between-datacenter-and-residential-proxies \"Datacenter Proxies vs. Residential Proxies: Complete Comparison ...\"\n[6]: https://www.ipfly.net/blog/datacenter-vs-residential-proxies/ \"Datacenter vs Residential Proxies: Which Should You Use? - IPFLY\"\n[7]: https://iproyal.com/blog/datacenter-vs-residential-proxies/ \"Residential vs Datacenter Proxy: An In-Depth Comparison\"\n[8]: https://crawlbase.com/blog/datacenter-vs-residential-proxies/ \"Datacenter vs Residential Proxies: Complete Guide 2026 - Crawlbase\"\n[9]: https://lightningproxies.net/blog/datacenter-vs-residential-proxies \"Datacenter vs Residential Proxies: Key Differences, Use Cases, and ...\"\n[10]: https://www.youtube.com/watch?v=Dg0ef8yG324 \"Residential VS. Datacenter Proxies | Everything You Need to Know About\"\n",
+  "web_results": [
+    {
+      "name": "Datacenter vs Residential Proxies: 2025 Comparison Guide - Massive",
+      "snippet": "Web access API backed by millions of volunteer devices in 195+ countries. For AI agents, models, and data pipelines.",
+      "url": "https://www.joinmassive.com/blog/datacenter-vs-residential-proxies"
+    },
+    {
+      "name": "Difference between Residential Proxies and Datacenter Proxies",
+      "snippet": "Your All-in-One Learning Portal: GeeksforGeeks is a comprehensive educational platform that empowers learners across domains-spanning computer science and programming, school education, upskilling, commerce, software tools, competitive exams, and more.",
+      "url": "https://www.geeksforgeeks.org/blogs/difference-between-residential-proxies-and-datacenter-proxies/"
+    },
+    {
+      "name": "Datacenter vs. Residential Proxies - Complete Guide",
+      "snippet": "Datacenter vs. residential proxies - Which one do you need? In this blog we'll discuss the differences between these different proxies and popular use cases.",
+      "url": "https://brightdata.com/blog/proxy-101/differences-between-datacenter-and-residential-proxies"
+    },
+    {
+      "name": "Residential Proxy vs Datacenter Proxy: What to Choose",
+      "snippet": "Proxies are used for various tasks, and sometimes, you have to choose between different types of proxies. Let's compare residential and server proxies.",
+      "url": "https://blog.froxy.com/en/residential-vs-datacenter-proxy"
+    },
+    {
+      "name": "Datacenter Proxies vs. Residential Proxies: Complete Comparison ...",
+      "snippet": "Compare datacenter and residential proxies: speed, success rates, pricing, and use cases. Learn when to use each type and discover Scrapeless's 99.98% reliable proxy solutions for web scraping.",
+      "url": "https://www.scrapeless.com/en/blog/differences-between-datacenter-and-residential-proxies"
+    },
+    {
+      "name": "Datacenter vs Residential Proxies: Which Should You Use? - IPFLY",
+      "snippet": "Deciding between datacenter vs residential proxies? This guide compares performance, cost, and use cases to help you choose the right proxy for your project.",
+      "url": "https://www.ipfly.net/blog/datacenter-vs-residential-proxies/"
+    },
+    {
+      "name": "Residential vs Datacenter Proxy: An In-Depth Comparison",
+      "snippet": "Compare residential and datacenter proxies to learn their key differences in use cases, pricing, and other aspects that help you choose between these proxy types.",
+      "url": "https://iproyal.com/blog/datacenter-vs-residential-proxies/"
+    },
+    {
+      "name": "Datacenter vs Residential Proxies: Complete Guide 2026 - Crawlbase",
+      "snippet": "Find out what the differences are between datacenter and residential proxy servers, how they work, and what their capabilities and limitations are.",
+      "url": "https://crawlbase.com/blog/datacenter-vs-residential-proxies/"
+    },
+    {
+      "name": "Datacenter vs Residential Proxies: Key Differences, Use Cases, and ...",
+      "snippet": "Understand datacenter vs residential proxies: how they work, pros/cons, IP rotation, and when to use each.",
+      "url": "https://lightningproxies.net/blog/datacenter-vs-residential-proxies"
+    },
+    {
+      "name": "Residential VS. Datacenter Proxies | Everything You Need to Know About",
+      "snippet": "In this video, we are going to explain differences between Residential and Datacenter Proxies . In-depth review and key differences you definitely need to know. If you are interested in our services don’t wait up and learn more about IPRoyal Proxies in the links below. Join our affiliate program: https://iproyal.com/affiliate-program/?utm_source=youtube&utm_medium=referral&utm_campaign=Social-Youtube&utm_content=Joinouraffiliateprogram Buy Residential Proxies NOW:...",
+      "url": "https://www.youtube.com/watch?v=Dg0ef8yG324"
+    }
+  ]
+}
