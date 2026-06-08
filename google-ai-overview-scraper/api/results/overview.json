@@ -1,0 +1,246 @@
+{
+  "ads": null,
+  "content": "A proxy server is a digital middleman that sits between your device and the internet. When you request a webpage, your computer sends the request to the proxy, which fetches the data for you and hides your actual IP address from the websites you visit. ([Live Proxies][4]) ([N-able][6]) ([UpGuard][8])\n\n### How it Works\n\n\n**The Request:** Instead of connecting directly to a website, your device sends its web requests to the proxy server.  \n\n**The Relay:** The proxy modifies the request and sends it to the destination web server using its own IP address instead of yours.  \n\n**The Response:** The destination web server sends the requested data (like a website) back to the proxy, which then relays it to you. ([Reddit][1]) ([N-able][6]) ([Bitdefender][9]) ([Live Proxies][4]) ([YouTube][10])  \n\n### Why People Use Proxies\n\n\n**Anonymity & Privacy:** By hiding your true IP address, websites cannot easily track your physical location or your browsing habits. ([Fortinet][2]) ([Netskope][5])  \n\n**Bypassing Geo-blocks:** By routing your traffic through a proxy in another country, you can access region-locked websites or streaming services. ([Fortinet][2]) ([Netskope][5])  \n\n**Content Filtering:** In schools or businesses, proxies are often used to block access to specific websites (like social media). ([Fortinet][2]) ([Netskope][5])  \n\n**Speed & Caching:** Proxies can save copies of frequently visited websites. If you request a site the proxy already has stored, it loads instantly without  …",
+  "is_overview_shopping": true,
+  "is_shopping": true,
+  "metadata": {
+    "rawUrl": "https://www.google.com/search?ApiType=overview&IsShopping=&oq=what+is+a+proxy+server&q=what+is+a+proxy+server&sclient=gws-wiz-serp&uact=5"
+  },
+  "products": null,
+  "purchase_link": true,
+  "rawtext": "A proxy server is a digital middleman that sits between your device and the internet. When you request a webpage, your computer sends the request to the proxy, which fetches the data for you and hides your actual IP address from the websites you visit.\n\n### How it Works\n\n- **The Request:**Instead of connecting directly to a website, your device sends its web requests to the proxy server.  \n- **The Relay:**The proxy modifies the request and sends it to the destination web server using its own IP address instead of yours.  \n- **The Response:**The destination web server sends the requested data (like a website) back to the proxy, which then relays it to you.  \n\n### Why People Use Proxies\n\n- **Anonymity & Privacy:**By hiding your true IP address, websites cannot easily track your physical loca …",
+  "source": [
+    {
+      "favicon": "",
+      "snippet": "A proxy server is a server that acts as an intermediary for network traffic. Basically, your computer asks the proxy to ask anothe...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "ELI5: what is a proxy server and why would I, as an average ... - Reddit",
+      "type": "",
+      "url": "https://www.reddit.com/r/explainlikeimfive/comments/1dfgepb/eli5_what_is_a_proxy_server_and_why_would_i_as_an/",
+      "website_name": "Reddit"
+    },
+    {
+      "favicon": "",
+      "snippet": "Proxy Server FAQs * What is a proxy server? A proxy server is a system or router that provides a gateway between users and the int...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a Proxy Server? Definition, Uses & More - Fortinet",
+      "type": "",
+      "url": "https://www.fortinet.com/resources/cyberglossary/proxy-server",
+      "website_name": "Fortinet"
+    },
+    {
+      "favicon": "",
+      "snippet": "In this article. A proxy is an intermediary server that sits between a client (such as your application) and a destination server ...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What Is a Proxy? - Dev Proxy - Microsoft Learn",
+      "type": "",
+      "url": "https://learn.microsoft.com/en-us/microsoft-cloud/dev/dev-proxy/concepts/what-is-proxy",
+      "website_name": "Microsoft Learn"
+    },
+    {
+      "favicon": "",
+      "snippet": "Definition, How It Works, and Setup Guide (2025) Discover how proxy servers work in 2025 covering definition, key types, setup ste...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What Is a Proxy Server? Definition, How It Works, and Setup Guide ( ...",
+      "type": "",
+      "url": "https://liveproxies.io/blog/what-is-proxy-server",
+      "website_name": "Live Proxies"
+    },
+    {
+      "favicon": "",
+      "snippet": "Last updated: January 3, 2026. A proxy server serves as a go-between for a user's device and the internet, managing web content re...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a Proxy Server? Types and Use Cases - Netskope",
+      "type": "",
+      "url": "https://www.netskope.com/security-defined/what-is-a-proxy-server",
+      "website_name": "Netskope"
+    },
+    {
+      "favicon": "",
+      "snippet": "Proxy Server Overview and Definition A proxy server acts as a middleman between a client's computer and the internet. Rather than ...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a Proxy Server? - N-able",
+      "type": "",
+      "url": "https://www.n-able.com/cyber-encyclopedia/what-is-a-proxy-server",
+      "website_name": "N-able"
+    },
+    {
+      "favicon": "",
+      "snippet": "A proxy server is an intermediary system that sits between a user's device and the internet, handling requests and responses on th...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a Proxy Server? - Portnox",
+      "type": "",
+      "url": "https://www.portnox.com/cybersecurity-101/networking/what-is-a-proxy-server/",
+      "website_name": "Portnox"
+    },
+    {
+      "favicon": "",
+      "snippet": "A Complete Guide to Data Breaches Learn how to avoid a costly data breach with a comprehensive prevention strategy. A proxy server...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a Proxy Server? How They Work + Security Risks - UpGuard",
+      "type": "",
+      "url": "https://www.upguard.com/blog/proxy-server",
+      "website_name": "UpGuard"
+    },
+    {
+      "favicon": "",
+      "snippet": "How it works, types & risks. Cristina POPOV. April 24, 2026. Protect all your devices, without slowing them down. If you've ever l...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a proxy server? How it works, types & risks - Bitdefender",
+      "type": "",
+      "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/what-is-a-proxy-server",
+      "website_name": "Bitdefender"
+    },
+    {
+      "favicon": "",
+      "snippet": "A proxy server acts as an intermediary between a user's device and the internet. Instead of directly connecting to a website, the ...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What Is a Proxy Server? How It Works & Why You Need One",
+      "type": "",
+      "url": "https://www.youtube.com/watch?v=0rULasZsV3M&t=11",
+      "website_name": "YouTube"
+    },
+    {
+      "favicon": "",
+      "snippet": "A proxy server is a network-layer device that intercepts traffic between a client and a destination. It evaluates, forwards, or mo...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What Is a Proxy Server? [Definition & Explanation] - Palo Alto Networks",
+      "type": "",
+      "url": "https://www.paloaltonetworks.com/cyberpedia/what-is-a-proxy-server",
+      "website_name": "Palo Alto Networks"
+    },
+    {
+      "favicon": "",
+      "snippet": "Transparent Proxies These proxies don't require any configuration on the client side. They intercept traffic without the client's ...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What Is a Proxy Server? Definition & Security Guide",
+      "type": "",
+      "url": "https://entro.security/glossary/proxy/",
+      "website_name": "Entro Security"
+    },
+    {
+      "favicon": "",
+      "snippet": "Transparent proxies do not alter the request/response; they are entirely transparent to the user. Such are typically hidden from u...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is Proxy Server and How it Works? Types & Advantages",
+      "type": "",
+      "url": "https://www.cantech.in/blog/what-is-a-proxy-server/",
+      "website_name": "www.cantech.in"
+    },
+    {
+      "favicon": "",
+      "snippet": "Residential proxies use IP locations from real home internet connections provided by ISPs, while datacenter proxies come from comm...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "Residential Proxy vs VPN: Complete Guide October 2025",
+      "type": "",
+      "url": "https://www.skyvern.com/blog/residential-proxy-vs-vpn-guide/",
+      "website_name": "Skyvern"
+    },
+    {
+      "favicon": "",
+      "snippet": "A proxy server is a gateway between users and the internet. It acts as an intermediary by receiving a user's request and forwardin...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What Is a Proxy Server? Security Risks and Corporate Use Cases",
+      "type": "",
+      "url": "https://securityscorecard.com/blog/what-is-a-proxy-server-understanding-security-risks-and-corporate-use-cases/",
+      "website_name": "SecurityScorecard"
+    },
+    {
+      "favicon": "",
+      "snippet": "Get Nikita N's stories in your inbox Join Medium for free to get updates from this writer. Datacenter Proxies come from data cente...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "Proxy Servers 101: Everything You Need to Know | by Nikita N | Level Up Coding",
+      "type": "",
+      "url": "https://levelup.gitconnected.com/proxy-servers-101-everything-you-need-to-know-002e0b0091c9",
+      "website_name": "Level Up Coding"
+    },
+    {
+      "favicon": "",
+      "snippet": "Datacenter Proxies Such IPs are generated by datacenter servers and have no relation to ISPs. They are fast, reliable, and availab...",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What Are the Different Types of Proxies and Their Uses? - Residential proxies",
+      "type": "",
+      "url": "https://dataimpulse.com/blog/different-types-of-proxy-servers-explained-dataimpulse/",
+      "website_name": "DataImpulse"
+    }
+  ],
+  "web_source": [
+    {
+      "favicon": "",
+      "snippet": "A proxy server is a server that you can send your internet traffic through before sending it to the actual server you want to send/receive data ...Read more",
+      "stores": null,
+      "thumbnail": "",
+      "title": "ELI5: what is a proxy server and why would I, as ...",
+      "type": "",
+      "url": "https://www.reddit.com/r/explainlikeimfive/comments/1dfgepb/eli5_what_is_a_proxy_server_and_why_would_i_as_an/",
+      "website_name": "Reddit · r/explainlikeimfive"
+    },
+    {
+      "favicon": "",
+      "snippet": "A proxy server is a system or router that provides a gateway between users and the internet. Therefore, it helps prevent cyber attackers from entering a ...Read more",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a Proxy Server? Definition, Uses & More",
+      "type": "",
+      "url": "https://www.fortinet.com/resources/cyberglossary/proxy-server",
+      "website_name": "Fortinet"
+    },
+    {
+      "favicon": "",
+      "snippet": "A proxy server is a network-layer device that intercepts traffic between a client and a destination. It evaluates, forwards, or modifies that traffic based on ...Read more",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What Is a Proxy Server? [Definition & Explanation]",
+      "type": "",
+      "url": "https://www.paloaltonetworks.com/cyberpedia/what-is-a-proxy-server",
+      "website_name": "Palo Alto Networks"
+    },
+    {
+      "favicon": "",
+      "snippet": "a proxy server is a server application that acts as an intermediary between a client requesting a resource and the server then providing that resource.",
+      "stores": null,
+      "thumbnail": "",
+      "title": "Proxy server",
+      "type": "",
+      "url": "https://en.wikipedia.org/wiki/Proxy_server",
+      "website_name": "Wikipedia"
+    },
+    {
+      "favicon": "",
+      "snippet": "A proxy server acts as a gateway between you and the internet. It's an intermediary server separating end users from the websites they browse.Read more",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a Proxy Server and How Does it Work?",
+      "type": "",
+      "url": "https://www.varonis.com/blog/what-is-a-proxy-server",
+      "website_name": "Varonis"
+    },
+    {
+      "favicon": "",
+      "snippet": "Jan 3, 2026 — A proxy server serves as a go-between for a user's device and the internet, managing web content requests for the user.",
+      "stores": null,
+      "thumbnail": "",
+      "title": "What is a Proxy Server? Types and Use Cases",
+      "type": "",
+      "url": "https://www.netskope.com/security-defined/what-is-a-proxy-server",
+      "website_name": "Netskope"
+    }
+  ]
+}

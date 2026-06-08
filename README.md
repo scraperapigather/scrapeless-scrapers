@@ -51,6 +51,7 @@ Every example runs end-to-end against the live Scrapeless API and emits schema-v
 | GOAT | [goat-scraper](goat-scraper/) | [py](goat-scraper/browser/python/) · [node](goat-scraper/browser/nodejs/) · [mcp](goat-scraper/browser/mcp/) |
 | Google | [google-scraper](google-scraper/) | [py](google-scraper/browser/python/) · [node](google-scraper/browser/nodejs/) · [cli](google-scraper/browser/cli/) · [api](google-scraper/api/) |
 | Google AI Mode | [google-ai-mode-scraper](google-ai-mode-scraper/) | [py](google-ai-mode-scraper/browser/python/) · [node](google-ai-mode-scraper/browser/nodejs/) · [api](google-ai-mode-scraper/api/) |
+| Google AI Overview | [google-ai-overview-scraper](google-ai-overview-scraper/) | [api](google-ai-overview-scraper/api/) |
 | Google Gemini | [gemini-scraper](gemini-scraper/) | [py](gemini-scraper/browser/python/) · [node](gemini-scraper/browser/nodejs/) · [cli](gemini-scraper/browser/cli/) · [mcp](gemini-scraper/browser/mcp/) · [api](gemini-scraper/api/) |
 | Google Jobs | [google-jobs-scraper](google-jobs-scraper/) | [py](google-jobs-scraper/browser/python/) · [node](google-jobs-scraper/browser/nodejs/) · [cli](google-jobs-scraper/browser/cli/) · [mcp](google-jobs-scraper/browser/mcp/) |
 | Google Maps | [google-maps-scraper](google-maps-scraper/) | [py](google-maps-scraper/browser/python/) · [node](google-maps-scraper/browser/nodejs/) · [cli](google-maps-scraper/browser/cli/) · [mcp](google-maps-scraper/browser/mcp/) |
