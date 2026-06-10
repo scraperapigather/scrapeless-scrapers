@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "engine": "google.search",
+    "rawUrl": "https://api.scrapeless.com/storage/scrapeless.scraper.google.search/6e6434f0e5160f03b43478d1bc65d1ff/9edf06bbd866ff1c8bd907eb28d80aee_1781025000.html"
+  },
+  "pagination": {},
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "golden retriever",
+    "total_results": 0,
+    "time_taken_displayed": ""
+  },
+  "suggested_searches": [
+    {
+      "name": "Puppy",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=golden+retriever+puppy&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-bFm2ZlpafR9BavZ5HqITaB23QYLuItBQ72JnVsBkL_2Anzz1ZXj7JcDvamSPBkre8quK8z2TNQkjqkRNtxEv1JMreoqx8DS07bKQwMtGbXPn5C5mbQB9hrx7D6Q5_tk0C8uN4Q&udm=2&sa=X&ved=2ahUKEwixpp-T0_qUAxVjJ0QIHUmIEKQQxKsJKAB6BAgREAE&ictx=0",
+      "uds": "",
+      "q": "Puppy golden retriever",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHB...<TRIMMED 1986 base64 chars; real data:image/jpeg thumbnail>"
+    },
+    {
+      "name": "Cute",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=cute+golden+retriever&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-bFm2ZlpafR9BavZ5HqITaB23QYLuItBQ72JnVsBkL_0qMsfg-MIgCEFSdpJZOS2JqzvlwWHDkPXAPWonbDybGzYneQvjjTG9XLjSTWAx07g6kaHFUNCUd0HjdhO6EM2M1KAeZA&udm=2&sa=X&ved=2ahUKEwixpp-T0_qUAxVjJ0QIHUmIEKQQxKsJKAF6BAgWEAE&ictx=0",
+      "uds": "",
+      "q": "Cute golden retriever",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHB...<TRIMMED 1563 base64 chars; real data:image/jpeg thumbnail>"
+    },
+    {
+      "name": "Labrador",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=labrador+golden+retriever&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-BpB1QzCsv5CMROAn-ssNqhkP--BH63671sS3HVKL0tI8hvWohFZJI4X60LAtJHW9BQBfmRMyTfMbeiLY3xvNcdFWrubMWiXQFtQyRrV9M2vDl8vyn9KPIwpzQyWVhTRpvT7ocryAPnjXitBdvQL-RsSs1AM&udm=2&sa=X&ved=2ahUKEwixpp-T0_qUAxVjJ0QIHUmIEKQQxKsJKAJ6BAgVEAE&ictx=0",
+      "uds": "",
+      "q": "Labrador golden retriever",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHB...<TRIMMED 2166 base64 chars; real data:image/jpeg thumbnail>"
+    },
+    {
+      "name": "Baby",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=baby+golden+retriever&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-bFm2ZlpafR9BavZ5HqITaB23QYLuItBQ72JnVsBkL_1gEgPy9fQtzGcgL02b2joBQyEy-D2OBRTk8xHJgWMAKeYSexDS2vpiMrbU91qhWOhTMbrT2J1xbQHgTBjdI15AIczQFQ&udm=2&sa=X&ved=2ahUKEwixpp-T0_qUAxVjJ0QIHUmIEKQQxKsJKAN6BAgTEAE&ictx=0",
+      "uds": "",
+      "q": "Baby golden retriever",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHB...<TRIMMED 1663 base64 chars; real data:image/jpeg thumbnail>"
+    },
+    {
+      "name": "Wallpaper",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=golden+retriever+wallpaper&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-BpB1QzCsv5CMROAn-ssNqhkP--BH63671sS3HVKL0tKHFho87HafwIRpkPHA_PRwSpGm-hX1f-fL6Go14CwcNjAkurfSeuRiYAMj0SrqOlmOkMFlF2rcNnBNU0aWw94jofK-4A&udm=2&sa=X&ved=2ahUKEwixpp-T0_qUAxVjJ0QIHUmIEKQQxKsJKAR6BAgUEAE&ictx=0",
+      "uds": "",
+      "q": "Wallpaper golden retriever",
+      "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHB...<TRIMMED 1735 base64 chars; real data:image/jpeg thumbnail>"
+    }
+  ]
+}

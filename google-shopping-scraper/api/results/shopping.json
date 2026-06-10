@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "engine": "google.search",
+    "rawUrl": "https://api.scrapeless.com/storage/scrapeless.scraper.google.search/85261dd354d5bb55d93b8311e1fc43db/2031758a3e51336d68176982a4e34314_1781025053.html"
+  },
+  "pagination": {},
+  "refine_this_search": [
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gaming+mechanical+keyboard&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDIWCAESBkdhbWluZzoKCMLrOhDD6zowA1jp8yBgAQ&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKAJ6BAgWEF4"
+    },
+    {
+      "query": "Wireless",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=wireless+mechanical+keyboard&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDIYCAESCFdpcmVsZXNzOgoI5YsrEJDvLDAAWOnzIGAB&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKAR6BAgWEGA"
+    },
+    {
+      "query": "Wired",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=wired+mechanical+keyboard&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDIVCAESBVdpcmVkOgoI5YsrEOeLKzAAWOnzIGAB&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKAZ6BAgWEGI"
+    },
+    {
+      "query": "Backlit",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=backlit+mechanical+keyboard&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDIXCAESB0JhY2tsaXQ6CgiR7ywQku8sMANY6fMgYAE&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKAh6BAgWEGQ"
+    },
+    {
+      "query": "Custom",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=custom+mechanical+keyboard&udm=28&shoprs=CAEYEioTbWVjaGFuaWNhbCBrZXlib2FyZDIKCBISBkN1c3RvbWAB&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKAp6BAgWEGY"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=mechanical+keyboard+sale&udm=28&shoprs=CAESBEoCGAEYBioTbWVjaGFuaWNhbCBrZXlib2FyZDITCAYSB09uIHNhbGUYAiIESgIYAVjp8yBgAQ&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKAx6BAgWEGg"
+    },
+    {
+      "query": "Mac",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=mac+mechanical+keyboard&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDITCAESA01hYzoKCMjHfxDKx38wAFjp8yBgAQ&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKA56BAgWEGo"
+    },
+    {
+      "query": "Under $50",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=mechanical+keyboard+under+$50&udm=28&shoprs=CAESDRILEQAAAACE14dBGAEYBSoTbWVjaGFuaWNhbCBrZXlib2FyZDIiCAUSCVVuZGVyICQ1MBgCIg0SCxEAAAAAhNeHQRgBKgIYAVjp8yBgAQ&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKBB6BAgWEGw"
+    },
+    {
+      "query": "Get it by Thu",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=mechanical+keyboard&udm=28&shoprs=CAESDZoBCgoIEAI4AUAESAEYFCoTbWVjaGFuaWNhbCBrZXlib2FyZDImCBQSDUdldCBpdCBieSBUaHUiDZoBCgoIEAI4AUAESAEqBBABGAFgAQ&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKBJ6BAgWEG4"
+    },
+    {
+      "query": "Bluetooth",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=bluetooth+mechanical+keyboard&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDIZCAESCUJsdWV0b290aDoKCOWLKxCO7ywwAFjp8yBgAQ&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKBR6BAgWEHA"
+    },
+    {
+      "query": "Mini",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=mini+mechanical+keyboard&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDIUCAESBE1pbmk6CgjF6zoQxus6MANY6fMgYAE&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKBZ6BAgWEHI"
+    },
+    {
+      "query": "Cell Phone Keyboards",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=cell+phone+keyboards+mechanical+keyboard&udm=28&shoprs=CAEYCSoTbWVjaGFuaWNhbCBrZXlib2FyZDIYCAkSFENlbGwgUGhvbmUgS2V5Ym9hcmRzYAE&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKBh6BAgWEHQ"
+    },
+    {
+      "query": "Ergonomic",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ergonomic+mechanical+keyboard&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDIZCAESCUVyZ29ub21pYzoKCJnrOhCa6zowA1jp8yBgAQ&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKBp6BAgWEHY"
+    },
+    {
+      "query": "Keyboard Case",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=keyboard+case+mechanical&udm=28&shoprs=CAEYASoTbWVjaGFuaWNhbCBrZXlib2FyZDIdCAESDUtleWJvYXJkIENhc2U6CgjPx38Q0Md_MANY6fMgYAE&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKBx6BAgWEHg"
+    },
+    {
+      "query": "60 Percent",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=60+percent+mechanical+keyboard&udm=28&shoprs=CAEYEioTbWVjaGFuaWNhbCBrZXlib2FyZDIOCBISCjYwIFBlcmNlbnRgAQ&sa=X&ved=2ahUKEwivppes0_qUAxX0H0QIHbHlIZcQip4GKB56BAgWEHo"
+    }
+  ],
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "mechanical keyboard",
+    "total_results": 0,
+    "time_taken_displayed": ""
+  }
+}

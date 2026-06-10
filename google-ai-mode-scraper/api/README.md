@@ -40,7 +40,7 @@ The fastest way to pull a Google AI Mode answer: one HTTP request to the Scrapel
 ```
 
 - `status` is `"success"` when the run completed; `task_id` identifies the run.
-- `task_result` is the **parsed structured answer** — use it directly (see [`results/chat.json`](results/chat.json) for the full field set captured from a live run).
+- `task_result` is the **parsed structured answer** — use it directly (see [`results/chat.json`](results/chat.json) for the captured field set; the heavy `result_html` is trimmed there for readability).
 - `result_text`/`result_md` are the AI overview as plain text and markdown; `result_html` is the rendered block, `citations` are the sources it linked, and `raw_url` is the underlying Google AI Mode request.
 
 ## Run it

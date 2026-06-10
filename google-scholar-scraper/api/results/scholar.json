@@ -1,0 +1,525 @@
+{
+  "metadata": {
+    "engine": "google.scholar",
+    "rawUrl": "https://api.scrapeless.com/storage/scrapeless.scraper.google.scholar/e7191db476193a4c634bef7e61937ec5/f18afa8ac4e938acfaf54a1e705dd9cb_1781025047.html"
+  },
+  "scholar_result": {
+    "search_information": {
+      "total_results": 1130000,
+      "time_taken_displayed": 0.13,
+      "query_displayed": "transformer neural network"
+    },
+    "organic_result": [
+      {
+        "position": 1,
+        "title": "Transformer in convolutional neural networks",
+        "result_id": "Xhupwy48-swJ",
+        "link": "https://homes.esat.kuleuven.be/~konijn/publications/2021/Liu2.pdf",
+        "snippet": "… of totally abandoning them as done in recent transformer works [16–20], we aim at introducing \na generic framework that could inherit the advantages of both CNNs and transformers. …",
+        "publication_info": {
+          "summary": "Y Liu, G Sun, Y Qiu, L Zhang… - arXiv preprint arXiv …, 2021 - homes.esat.kuleuven.be",
+          "author": [
+            {
+              "name": "Y Liu",
+              "link": "http://https://scholar.google.com/citations?user=UB3doCoAAAAJ&hl=en&oi=sra",
+              "author_id": "UB3doCoAAAAJ"
+            },
+            {
+              "name": "G Sun",
+              "link": "http://https://scholar.google.com/citations?user=qd8Blw0AAAAJ&hl=en&oi=sra",
+              "author_id": "qd8Blw0AAAAJ"
+            },
+            {
+              "name": "L Zhang",
+              "link": "http://https://scholar.google.com/citations?user=61LOyWUAAAAJ&hl=en&oi=sra",
+              "author_id": "61LOyWUAAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[PDF] kuleuven.be",
+            "file_format": "[PDF]",
+            "link": "https://homes.esat.kuleuven.be/~konijn/publications/2021/Liu2.pdf"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=14770184099463764830&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 112,
+            "cites_id": "14770184099463764830"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:Xhupwy48-swJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "link": "https://scholar.google.comjavascript:void(0)"
+          }
+        }
+      },
+      {
+        "position": 2,
+        "title": "R-transformer: Recurrent neural network enhanced transformer",
+        "result_id": "9jQQcRuE-5gJ",
+        "link": "https://arxiv.org/abs/1907.05572",
+        "snippet": "… Unlike previously proposed Transformer-like models, R-Transformer in this work leverages \nthe strength of RNN and is able model the local structures effectively without the need of any …",
+        "publication_info": {
+          "summary": "Z Wang, Y Ma, Z Liu, J Tang - arXiv preprint arXiv:1907.05572, 2019 - arxiv.org",
+          "author": [
+            {
+              "name": "Z Wang",
+              "link": "http://https://scholar.google.com/citations?user=nvNEalYAAAAJ&hl=en&oi=sra",
+              "author_id": "nvNEalYAAAAJ"
+            },
+            {
+              "name": "Y Ma",
+              "link": "http://https://scholar.google.com/citations?user=wf9TTOIAAAAJ&hl=en&oi=sra",
+              "author_id": "wf9TTOIAAAAJ"
+            },
+            {
+              "name": "Z Liu",
+              "link": "http://https://scholar.google.com/citations?user=rRTzNm0AAAAJ&hl=en&oi=sra",
+              "author_id": "rRTzNm0AAAAJ"
+            },
+            {
+              "name": "J Tang",
+              "link": "http://https://scholar.google.com/citations?user=WtzKMWAAAAAJ&hl=en&oi=sra",
+              "author_id": "WtzKMWAAAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[PDF] arxiv.org",
+            "file_format": "[PDF]",
+            "link": "https://arxiv.org/pdf/1907.05572"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=11023549766315291894&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 178,
+            "cites_id": "11023549766315291894"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:9jQQcRuE-5gJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=11023549766315291894&hl=en&as_sdt=0,5",
+            "cluster_id": "11023549766315291894"
+          }
+        }
+      },
+      {
+        "position": 3,
+        "title": "Transformer neural networks for interpretable flood forecasting",
+        "result_id": "eaSqVjEELZcJ",
+        "link": "https://www.sciencedirect.com/science/article/pii/S136481522200281X",
+        "snippet": "… the applicability of the Transformer neural network to the task … that the Transformer outperforms \nrecurrent neural networks by … Furthermore, the Transformer requires lower computational …",
+        "publication_info": {
+          "summary": "M Castangia, LMM Grajales, A Aliberti, C Rossi… - … Modelling & Software, 2023 - Elsevier",
+          "author": [
+            {
+              "name": "M Castangia",
+              "link": "http://https://scholar.google.com/citations?user=RulBKsMAAAAJ&hl=en&oi=sra",
+              "author_id": "RulBKsMAAAAJ"
+            },
+            {
+              "name": "A Aliberti",
+              "link": "http://https://scholar.google.com/citations?user=A_EadKUAAAAJ&hl=en&oi=sra",
+              "author_id": "A_EadKUAAAAJ"
+            },
+            {
+              "name": "C Rossi",
+              "link": "http://https://scholar.google.com/citations?user=Wwyz_joAAAAJ&hl=en&oi=sra",
+              "author_id": "Wwyz_joAAAAJ"
+            }
+          ]
+        },
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=10893367683633030265&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 177,
+            "cites_id": "10893367683633030265"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:eaSqVjEELZcJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=10893367683633030265&hl=en&as_sdt=0,5",
+            "cluster_id": "10893367683633030265"
+          }
+        }
+      },
+      {
+        "position": 4,
+        "title": "Transforming the language of life: transformer neural networks for protein prediction tasks",
+        "result_id": "fS-AVuwxGuAJ",
+        "link": "https://dl.acm.org/doi/abs/10.1145/3388440.3412467",
+        "snippet": "… We present a Transformer neural network that pre-trains task-agnostic sequence representations. \nThis model is fine-tuned to solve two different protein prediction tasks: protein family …",
+        "publication_info": {
+          "summary": "A Nambiar, M Heflin, S Liu, S Maslov… - Proceedings of the 11th …, 2020 - dl.acm.org",
+          "author": [
+            {
+              "name": "A Nambiar",
+              "link": "http://https://scholar.google.com/citations?user=cQZWTbMAAAAJ&hl=en&oi=sra",
+              "author_id": "cQZWTbMAAAAJ"
+            },
+            {
+              "name": "S Liu",
+              "link": "http://https://scholar.google.com/citations?user=ktb2fSwAAAAJ&hl=en&oi=sra",
+              "author_id": "ktb2fSwAAAAJ"
+            },
+            {
+              "name": "S Maslov",
+              "link": "http://https://scholar.google.com/citations?user=TOkEuagAAAAJ&hl=en&oi=sra",
+              "author_id": "TOkEuagAAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[PDF] acm.org",
+            "file_format": "[PDF]",
+            "link": "https://dl.acm.org/doi/pdf/10.1145/3388440.3412467"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=16148274305023618941&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 196,
+            "cites_id": "16148274305023618941"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:fS-AVuwxGuAJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 9,
+            "link": "https://scholar.google.com/scholar?cluster=16148274305023618941&hl=en&as_sdt=0,5",
+            "cluster_id": "16148274305023618941"
+          }
+        }
+      },
+      {
+        "position": 5,
+        "title": "A comparison of transformer and recurrent neural networks on multilingual neural machine translation",
+        "result_id": "J8p83ayKPy8J",
+        "link": "https://aclanthology.org/C18-1054/",
+        "snippet": "… investigates the translation quality of two of the currently dominant neural architectures in \nMT, which are the Recurrent and the Transformer ones; and (iii) quantitatively explores how the …",
+        "publication_info": {
+          "summary": "SM Lakew, M Cettolo, M Federico - Proceedings of the 27th …, 2018 - aclanthology.org",
+          "author": [
+            {
+              "name": "SM Lakew",
+              "link": "http://https://scholar.google.com/citations?user=GEB4LhgAAAAJ&hl=en&oi=sra",
+              "author_id": "GEB4LhgAAAAJ"
+            },
+            {
+              "name": "M Cettolo",
+              "link": "http://https://scholar.google.com/citations?user=5uWajM4AAAAJ&hl=en&oi=sra",
+              "author_id": "5uWajM4AAAAJ"
+            },
+            {
+              "name": "M Federico",
+              "link": "http://https://scholar.google.com/citations?user=WaGw_qYAAAAJ&hl=en&oi=sra",
+              "author_id": "WaGw_qYAAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[PDF] aclanthology.org",
+            "file_format": "[PDF]",
+            "link": "https://aclanthology.org/C18-1054.pdf"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=3404592318370335271&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 210,
+            "cites_id": "3404592318370335271"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:J8p83ayKPy8J:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 8,
+            "link": "https://scholar.google.com/scholar?cluster=3404592318370335271&hl=en&as_sdt=0,5",
+            "cluster_id": "3404592318370335271"
+          }
+        }
+      },
+      {
+        "position": 6,
+        "title": "Spikformer: When spiking neural network meets transformer",
+        "result_id": "YBqrsf24cakJ",
+        "link": "https://arxiv.org/abs/2209.15425",
+        "snippet": "… We propose Spiking Transformer (Spikformer), which incorporates the self-attention \nmechanism and Transformer into the spiking neural networks (SNNs) for enhanced learning …",
+        "publication_info": {
+          "summary": "Z Zhou, Y Zhu, C He, Y Wang, S Yan, Y Tian… - arXiv preprint arXiv …, 2022 - arxiv.org",
+          "author": [
+            {
+              "name": "Z Zhou",
+              "link": "http://https://scholar.google.com/citations?user=4nz-h1QAAAAJ&hl=en&oi=sra",
+              "author_id": "4nz-h1QAAAAJ"
+            },
+            {
+              "name": "Y Zhu",
+              "link": "http://https://scholar.google.com/citations?user=HBp_nuAAAAAJ&hl=en&oi=sra",
+              "author_id": "HBp_nuAAAAAJ"
+            },
+            {
+              "name": "Y Wang",
+              "link": "http://https://scholar.google.com/citations?user=o_DllmIAAAAJ&hl=en&oi=sra",
+              "author_id": "o_DllmIAAAAJ"
+            },
+            {
+              "name": "S Yan",
+              "link": "http://https://scholar.google.com/citations?user=DNuiPHwAAAAJ&hl=en&oi=sra",
+              "author_id": "DNuiPHwAAAAJ"
+            },
+            {
+              "name": "Y Tian",
+              "link": "http://https://scholar.google.com/citations?user=fn6hJx0AAAAJ&hl=en&oi=sra",
+              "author_id": "fn6hJx0AAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[PDF] arxiv.org",
+            "file_format": "[PDF]",
+            "link": "https://arxiv.org/pdf/2209.15425"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=12209743464525142624&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 683,
+            "cites_id": "12209743464525142624"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:YBqrsf24cakJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 4,
+            "link": "https://scholar.google.com/scholar?cluster=12209743464525142624&hl=en&as_sdt=0,5",
+            "cluster_id": "12209743464525142624"
+          }
+        }
+      },
+      {
+        "position": 7,
+        "title": "An artificial neural network approach to transformer fault diagnosis",
+        "result_id": "BpubS3GIt-UJ",
+        "link": "https://ieeexplore.ieee.org/abstract/document/544265/",
+        "snippet": "… This paper presents an artificial neural network (ANN) approach to diagnose and detect \nfaults in oil-filled power transformers based on dissolved gas-in-oil analysis. A twostep ANN …",
+        "publication_info": {
+          "summary": "Y Zhang, X Ding, Y Liu, PJ Griffin - IEEE transactions on power …, 1996 - ieeexplore.ieee.org",
+          "author": [
+            {
+              "name": "Y Liu",
+              "link": "http://https://scholar.google.com/citations?user=qHDlIS8AAAAJ&hl=en&oi=sra",
+              "author_id": "qHDlIS8AAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[PDF] vt.edu",
+            "file_format": "[PDF]",
+            "link": "https://vtechworks.lib.vt.edu/bitstreams/9bce9f02-3dc2-4b68-914f-9576c7a6800a/download"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=16552848975604718342&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 611,
+            "cites_id": "16552848975604718342"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:BpubS3GIt-UJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 12,
+            "link": "https://scholar.google.com/scholar?cluster=16552848975604718342&hl=en&as_sdt=0,5",
+            "cluster_id": "16552848975604718342"
+          }
+        }
+      },
+      {
+        "position": 8,
+        "title": "Comparing vision transformers and convolutional neural networks for image classification: A literature review",
+        "result_id": "3RtgwJzWuNwJ",
+        "link": "https://www.mdpi.com/2076-3417/13/9/5521",
+        "snippet": "… Transformers are models that implement a mechanism of self… Neural Networks for image \nclassification and transformers … Transformers (ViT) and Convolutional Neural Networks. The …",
+        "publication_info": {
+          "summary": "J Maurício, I Domingues, J Bernardino - Applied Sciences, 2023 - mdpi.com",
+          "author": [
+            {
+              "name": "J Maurício",
+              "link": "http://https://scholar.google.com/citations?user=qkfnuSAAAAAJ&hl=en&oi=sra",
+              "author_id": "qkfnuSAAAAAJ"
+            },
+            {
+              "name": "I Domingues",
+              "link": "http://https://scholar.google.com/citations?user=wsX09lEAAAAJ&hl=en&oi=sra",
+              "author_id": "wsX09lEAAAAJ"
+            },
+            {
+              "name": "J Bernardino",
+              "link": "http://https://scholar.google.com/citations?user=EpJW32AAAAAJ&hl=en&oi=sra",
+              "author_id": "EpJW32AAAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[HTML] mdpi.com",
+            "file_format": "[HTML]",
+            "link": "https://www.mdpi.com/2076-3417/13/9/5521"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=15904698052789672925&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 794,
+            "cites_id": "15904698052789672925"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:3RtgwJzWuNwJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 10,
+            "link": "https://scholar.google.com/scholar?cluster=15904698052789672925&hl=en&as_sdt=0,5",
+            "cluster_id": "15904698052789672925"
+          }
+        }
+      },
+      {
+        "position": 9,
+        "title": "Transformer in transformer",
+        "result_id": "_9P7mh-CUNIJ",
+        "link": "https://proceedings.neurips.cc/paper/2021/hash/854d9fca60b4bd07f9bb215d59ef5561-Abstract.html",
+        "snippet": "… neural networks (CNNs) [17, 12, 11]. Differently, transformer is a type of neural network \nmainly … Transformer is widely used in the field of natural language processing (NLP), eg, the …",
+        "publication_info": {
+          "summary": "K Han, A Xiao, E Wu, J Guo, C Xu… - Advances in neural …, 2021 - proceedings.neurips.cc",
+          "author": [
+            {
+              "name": "K Han",
+              "link": "http://https://scholar.google.com/citations?user=vThoBVcAAAAJ&hl=en&oi=sra",
+              "author_id": "vThoBVcAAAAJ"
+            },
+            {
+              "name": "A Xiao",
+              "link": "http://https://scholar.google.com/citations?user=Q2J2qK4AAAAJ&hl=en&oi=sra",
+              "author_id": "Q2J2qK4AAAAJ"
+            },
+            {
+              "name": "J Guo",
+              "link": "http://https://scholar.google.com/citations?user=UnAbd4gAAAAJ&hl=en&oi=sra",
+              "author_id": "UnAbd4gAAAAJ"
+            },
+            {
+              "name": "C Xu",
+              "link": "http://https://scholar.google.com/citations?user=-CJ5LkMAAAAJ&hl=en&oi=sra",
+              "author_id": "-CJ5LkMAAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[PDF] neurips.cc",
+            "file_format": "[PDF]",
+            "link": "https://proceedings.neurips.cc/paper_files/paper/2021/file/854d9fca60b4bd07f9bb215d59ef5561-Paper.pdf"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=15154755818357511167&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 2973,
+            "cites_id": "15154755818357511167"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:_9P7mh-CUNIJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 7,
+            "link": "https://scholar.google.com/scholar?cluster=15154755818357511167&hl=en&as_sdt=0,5",
+            "cluster_id": "15154755818357511167"
+          }
+        }
+      },
+      {
+        "position": 10,
+        "title": "Object detection using convolutional neural networks and transformer-based models: a review",
+        "result_id": "cwrvyqLmsoYJ",
+        "link": "https://link.springer.com/article/10.1186/s43067-023-00123-z",
+        "snippet": "… Transformers are either replacing convolution networks or being used in conjunction with … \nof convolutional neural networks (CNNs) built models and models based on transformer, …",
+        "publication_info": {
+          "summary": "S Shah, J Tembhurne - Journal of Electrical Systems and Information …, 2023 - Springer",
+          "author": [
+            {
+              "name": "J Tembhurne",
+              "link": "http://https://scholar.google.com/citations?user=4UUerrsAAAAJ&hl=en&oi=sra",
+              "author_id": "4UUerrsAAAAJ"
+            }
+          ]
+        },
+        "resources": [
+          {
+            "title": "[PDF] springer.com",
+            "file_format": "[PDF]",
+            "link": "https://link.springer.com/content/pdf/10.1186/s43067-023-00123-z.pdf"
+          }
+        ],
+        "inline_links": {
+          "cited_by": {
+            "link": "https://scholar.google.com/scholar?cites=9706073733800594035&as_sdt=2005&sciodt=0,5&hl=en",
+            "total": 64,
+            "cites_id": "9706073733800594035"
+          },
+          "related_pages_link": "https://scholar.google.com/scholar?q=related:cwrvyqLmsoYJ:scholar.google.com/&scioq=transformer+neural+network&hl=en&as_sdt=0,5",
+          "versions": {
+            "total": 5,
+            "link": "https://scholar.google.com/scholar?cluster=9706073733800594035&hl=en&as_sdt=0,5",
+            "cluster_id": "9706073733800594035"
+          }
+        }
+      }
+    ],
+    "related_search": [
+      {
+        "query": "transformer neural network time series prediction",
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=1&q=transformer+neural+network+time+series+prediction&qst=ib"
+      },
+      {
+        "query": "transformer neural network natural language processing",
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=2&q=transformer+neural+network+natural+language+processing&qst=ib"
+      },
+      {
+        "query": "transformer neural network prediction",
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=3&q=transformer+neural+network+prediction&qst=ib"
+      },
+      {
+        "query": "transformer neural network accelerator",
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=4&q=transformer+neural+network+accelerator&qst=ib"
+      },
+      {
+        "query": "transformer neural network language understanding",
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=5&q=transformer+neural+network+language+understanding&qst=ib"
+      },
+      {
+        "query": "self attention transformer neural network",
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=6&q=self+attention+transformer+neural+network&qst=ib"
+      },
+      {
+        "query": "vaswani transformer neural network",
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=7&q=vaswani+transformer+neural+network&qst=ib"
+      },
+      {
+        "query": "gated graph transformer neural network",
+        "link": "https://scholar.google.com/scholar?hl=en&as_sdt=0,5&qsp=8&q=gated+graph+transformer+neural+network&qst=ib"
+      }
+    ],
+    "pagination": {
+      "current": 1,
+      "next": "https://scholar.google.com/scholar?start=10&q=transformer+neural+network&hl=en&as_sdt=0,5",
+      "other_pages": {
+        "10": "https://scholar.google.com/scholar?start=90&q=transformer+neural+network&hl=en&as_sdt=0,5",
+        "2": "https://scholar.google.com/scholar?start=10&q=transformer+neural+network&hl=en&as_sdt=0,5",
+        "3": "https://scholar.google.com/scholar?start=20&q=transformer+neural+network&hl=en&as_sdt=0,5",
+        "4": "https://scholar.google.com/scholar?start=30&q=transformer+neural+network&hl=en&as_sdt=0,5",
+        "5": "https://scholar.google.com/scholar?start=40&q=transformer+neural+network&hl=en&as_sdt=0,5",
+        "6": "https://scholar.google.com/scholar?start=50&q=transformer+neural+network&hl=en&as_sdt=0,5",
+        "7": "https://scholar.google.com/scholar?start=60&q=transformer+neural+network&hl=en&as_sdt=0,5",
+        "8": "https://scholar.google.com/scholar?start=70&q=transformer+neural+network&hl=en&as_sdt=0,5",
+        "9": "https://scholar.google.com/scholar?start=80&q=transformer+neural+network&hl=en&as_sdt=0,5"
+      }
+    }
+  }
+}

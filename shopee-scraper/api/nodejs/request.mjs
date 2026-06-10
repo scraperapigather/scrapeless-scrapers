@@ -35,5 +35,5 @@ const url =
   "https://shopee.sg/CotonSoft-UltraLux-Pillow-I-Washable-Pillow-I-Support-" +
   "Pillow-I-Soft-Pillow-I-Hotel-Pillow-I-Fiber-Pillow-i.261548406.5654105940";
 const data = await scrapeShopee(url);
-// `result` is the parsed structured object; `html` is the full rendered page.
-console.log(JSON.stringify(data.result ?? data, null, 2));
+// The poll envelope carries the product under data.data.item.
+console.log(JSON.stringify(data, null, 2));

@@ -1,0 +1,516 @@
+{
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "rating": 4.9,
+        "reviews": 588,
+        "reviews_original": "(588)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "The Coffee Berry SF",
+        "type": " Coffee shop",
+        "address": "1410 Lombard St",
+        "phone": " $1–10 ",
+        "hours": "4.9(588) ",
+        "extensions": [
+          "       \"The espresso was delicious, and the staff was very friendly and welcoming.\""
+        ]
+      },
+      {
+        "position": 2,
+        "rating": 4.8,
+        "reviews": 578,
+        "reviews_original": "(578)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "The Coffee Movement",
+        "type": " Coffee shop",
+        "address": "1737 Balboa St",
+        "phone": " $1–10 ",
+        "hours": "4.8(578) ",
+        "extensions": [
+          "       \"Delicious coffee, kind and attentive baristas, beautiful atmosphere.\""
+        ]
+      },
+      {
+        "position": 3,
+        "rating": 4.4,
+        "reviews": 739,
+        "reviews_original": "(739)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Sextant Coffee Roasters",
+        "type": " Coffee shop",
+        "address": "1415 Folsom St",
+        "phone": " $1–10 ",
+        "hours": "4.4(739) ",
+        "extensions": [
+          "       \"Delicious coffee, yummy pastries, and awesome friendly service.\""
+        ]
+      },
+      {
+        "position": 4,
+        "rating": 4.9,
+        "reviews": 223,
+        "reviews_original": "(223)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Third Wheel Coffee",
+        "type": " Coffee shop",
+        "address": "991 Oak St",
+        "phone": " $1–10 ",
+        "hours": "4.9(223) ",
+        "extensions": [
+          "       \"Coffee was the right temperature, smooth consistency, and beautiful flavor.\""
+        ]
+      },
+      {
+        "position": 5,
+        "rating": 4.8,
+        "reviews": 410,
+        "reviews_original": "(410)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Doppio Coffee & Brunch",
+        "type": " Coffee shop",
+        "address": "1551 Mission St",
+        "phone": " $10–20 ",
+        "hours": "4.8(410) ",
+        "extensions": [
+          "       \"This is a clean and efficient operation, great service, solid coffee.\""
+        ]
+      },
+      {
+        "position": 6,
+        "rating": 4.4,
+        "reviews": 200,
+        "reviews_original": "(200)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "CoffeeShop | Bakery + Micro-Roastery",
+        "type": " Coffee shop",
+        "address": "900 22nd St",
+        "phone": " $10–20 ",
+        "hours": "4.4(200) ",
+        "extensions": [
+          "       \"The coffee is delicious, the music is great, and the atmosphere is awesome.\""
+        ]
+      },
+      {
+        "position": 7,
+        "rating": 4.4,
+        "reviews": 3400,
+        "reviews_original": "(3.4K)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Sightglass Coffee",
+        "type": " Coffee shop",
+        "address": "270 7th St",
+        "phone": " $10–20 ",
+        "hours": "4.4(3.4K) ",
+        "extensions": [
+          "       \"Plenty of seating, really friendly staff, and great coffee!\""
+        ]
+      },
+      {
+        "position": 8,
+        "rating": 4.7,
+        "reviews": 1100,
+        "reviews_original": "(1.1K)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Delah Coffee",
+        "type": " Coffee shop",
+        "address": "370 4th St",
+        "phone": "Curbside pickup",
+        "hours": "Dine-in",
+        "extensions": [
+          "Dine-in",
+          "Curbside pickup",
+          "No-contact delivery"
+        ]
+      },
+      {
+        "position": 9,
+        "rating": 4.5,
+        "reviews": 2700,
+        "reviews_original": "(2.7K)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Four Barrel Coffee",
+        "type": " Coffee shop",
+        "address": "375 Valencia St",
+        "phone": " $10–20 ",
+        "hours": "4.5(2.7K) ",
+        "extensions": [
+          "       \"Good caffe latte with good service in a fun, welcoming atmosphere.\""
+        ]
+      },
+      {
+        "position": 10,
+        "rating": 4.7,
+        "reviews": 1300,
+        "reviews_original": "(1.3K)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "The Coffee Movement",
+        "type": " Coffee shop",
+        "address": "1030 Washington St",
+        "phone": " $1–10 ",
+        "hours": "4.7(1.3K) ",
+        "extensions": [
+          "       \"Delicious espresso, perfectly foamed milk, and just a hint of syrup.\""
+        ]
+      },
+      {
+        "position": 11,
+        "rating": 4.7,
+        "reviews": 579,
+        "reviews_original": "(579)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Scullery",
+        "type": " Coffee shop",
+        "address": "687 Geary St",
+        "phone": " $1–10 ",
+        "hours": "4.7(579) ",
+        "extensions": [
+          "       \"Excellent coffee with smooth flavor and consistent quality.\""
+        ]
+      },
+      {
+        "position": 12,
+        "rating": 4.5,
+        "reviews": 1400,
+        "reviews_original": "(1.4K)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Saint Frank Coffee",
+        "type": " Coffee shop",
+        "address": "2340 Polk St",
+        "phone": " $10–20 ",
+        "hours": "4.5(1.4K) ",
+        "extensions": [
+          "       \"Cute spot, top notch coffee and amazing baristas... Awful wifi.\""
+        ]
+      },
+      {
+        "position": 13,
+        "rating": 4.5,
+        "reviews": 164,
+        "reviews_original": "(164)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Hey Neighbor Cafe",
+        "type": " Coffee shop",
+        "address": "2 Burrows St",
+        "phone": " $1–10 ",
+        "hours": "4.5(164) ",
+        "extensions": [
+          "       \"What  a cool place with amazing service and beautiful coffee and tea.\""
+        ]
+      },
+      {
+        "position": 14,
+        "rating": 4.5,
+        "reviews": 2300,
+        "reviews_original": "(2.3K)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "The Mill",
+        "type": " Coffee shop",
+        "address": "736 Divisadero St",
+        "phone": " $10–20 ",
+        "hours": "4.5(2.3K) ",
+        "extensions": [
+          "       \"Coffee is top-notch-smooth, balanced, and brewed to perfection.\""
+        ]
+      },
+      {
+        "position": 15,
+        "rating": 4.4,
+        "reviews": 864,
+        "reviews_original": "(864)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Verve Coffee Roasters",
+        "type": " Coffee shop",
+        "address": "2101 Market St",
+        "phone": " $1–10 ",
+        "hours": "4.4(864) ",
+        "extensions": [
+          "       \"Lots of varied seating in a clean comfy atmosphere for relaxing or working.\""
+        ]
+      },
+      {
+        "position": 16,
+        "rating": 4.7,
+        "reviews": 163,
+        "reviews_original": "(163)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Paper Son Coffee",
+        "type": " Coffee shop",
+        "address": "303 2nd St N102",
+        "phone": " $10–20 ",
+        "hours": "4.7(163) ",
+        "extensions": [
+          "       \"Super friendly baristas, delicious coffee, fun vibe.\""
+        ]
+      },
+      {
+        "position": 17,
+        "rating": 4.6,
+        "reviews": 300,
+        "reviews_original": "(300)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Hedge Coffee",
+        "type": " Coffee shop",
+        "address": "434 Shotwell St",
+        "phone": " $1–10 ",
+        "hours": "4.6(300) ",
+        "extensions": [
+          "       \"A unique cool coffee shop with great music and outdoor patio terrace area.\""
+        ]
+      },
+      {
+        "position": 18,
+        "rating": 4.8,
+        "reviews": 423,
+        "reviews_original": "(423)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Golden Goat Coffee",
+        "type": " Cafe",
+        "address": "599 3rd St #100",
+        "phone": " $1–10 ",
+        "hours": "4.8(423) ",
+        "extensions": [
+          "       \"Friendly and helpful staff, fun decor, excellent coffee and pastries.\""
+        ]
+      },
+      {
+        "position": 19,
+        "rating": 4.4,
+        "reviews": 1300,
+        "reviews_original": "(1.3K)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Flywheel Coffee Roasters",
+        "type": " Coffee shop",
+        "address": "672 Stanyan St",
+        "phone": " $1–10 ",
+        "hours": "4.4(1.3K) ",
+        "extensions": [
+          "       \"Exceptional coffee, a good vibe, and super tasty food options.\""
+        ]
+      },
+      {
+        "position": 20,
+        "rating": 4.7,
+        "reviews": 2700,
+        "reviews_original": "(2.7K)",
+        "price": "$",
+        "lsig": "",
+        "thumbnail": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABA…<base64 trimmed>",
+        "place_id": "",
+        "place_id_search": "",
+        "gps_coordinates": {
+          "latitude": 0,
+          "longitude": 0
+        },
+        "title": "Dandelion Chocolate",
+        "type": " Coffee shop",
+        "address": "740 Valencia St",
+        "phone": " Coffee shop",
+        "hours": "4.7(2.7K) ",
+        "extensions": [
+          "       \"They have great coffee and make a delicious vegan coffee cake.\""
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "engine": "google.search",
+    "rawUrl": "https://api.scrapeless.com/storage/scrapeless.scraper.google.search/727d05aa861122c1b9fd09b3a3c46f8f/c63bd7d70f95169344aca4d4ad2f3c12_1781025048.html"
+  },
+  "pagination": {},
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "coffee shops in San Francisco",
+    "total_results": 0,
+    "time_taken_displayed": ""
+  },
+  "suggested_searches": [
+    {
+      "name": "Open now",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=coffee+shops+in+San+Francisco+open+now&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-9374Zu-0QADT4DIeY78kEtBnHOJE832sXkdC3YNIpcnsilI4f8aor0QiF1azzcSYi9sppgmnJmRx78q4I0VSQNS7S4r3gfqLXJB590_im_pIiqZ4fXZY0UM0QV2rpqX5fJYHJaxe60oBo4vG7V2ENkOVuaGXIYRozPeAGxBhIQ7jFp_H9_1MvBVn3YxJAak-gsHuvQ&udm=1&sa=X&ved=2ahUKEwja24eq0_qUAxXeLUQIHaytMxcQxKsJKAB6BAggEAE&ictx=0",
+      "uds": "",
+      "q": "Open now coffee shops in San Francisco",
+      "thumbnail": ""
+    },
+    {
+      "name": "Top rated",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=top+rated+coffee+shops+in+San+Francisco&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-yMqHzrjvbiMfvj3E6DLF9Sh4ehEJ6GU3aQ-wv-Xr3wBRiMOxFCKjPHNHWCYnj2IYue2QERHlSmkMskeNFgWJmW8SpGOKncab8RjqHiqXtDSlXPcaMeTxZFOJIyIcyRiUj2QpCgLxKcFGdBWuG0Od1ktbLm7nDBvyL8CZDVeq_wRhZLtpOoFge90EEOdwnZclZoY9Fw&udm=1&sa=X&ved=2ahUKEwja24eq0_qUAxXeLUQIHaytMxcQxKsJKAF6BAgiEAE&ictx=0",
+      "uds": "",
+      "q": "Top rated coffee shops in San Francisco",
+      "thumbnail": ""
+    },
+    {
+      "name": "Cheap",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=cheap+coffee+shops+in+San+Francisco&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-dUapYj468QNccFrm14FQ-FBgFPOdIDTFtl5mo7_HaMBmXLt2PVLBDo95qqz6MV2jDUqhhQeBIrvsq8cZmzAJWkXwCyvM9OKBgtql-lHXGEvEQh-OUZE_Sb4yw3ovJwHgNmRPVH4hgFcMQUOo_bw-s_gh__FWbqoKaetZOpxOtBcuCW16CfgF8ymzYEpxbjgX6LSGKg&udm=1&sa=X&ved=2ahUKEwja24eq0_qUAxXeLUQIHaytMxcQxKsJKAJ6BAghEAE&ictx=0",
+      "uds": "",
+      "q": "Cheap coffee shops in San Francisco",
+      "thumbnail": ""
+    },
+    {
+      "name": "Upscale",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=upscale+coffee+shops+in+San+Francisco&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-9374Zu-0QADT4DIeY78kEtBnHOJE832sXkdC3YNIpcnsilI4f8aor0QiF1azzcSYquEGL-oxCnG_5sYoIoFbMPsjAZ_Pvbc3dHoi6JJ9JuK9z2pugSxQppq93FdjxCuHu3J21MiQjGP8bueK-HanJ7BBY2s-1TGw-GyqMJKwwYSd7ZtOFxhcSykulbIqSNc2VYCxnA&udm=1&sa=X&ved=2ahUKEwja24eq0_qUAxXeLUQIHaytMxcQxKsJKAN6BAgfEAE&ictx=0",
+      "uds": "",
+      "q": "Upscale coffee shops in San Francisco",
+      "thumbnail": ""
+    },
+    {
+      "name": "Delivery",
+      "link": "https://www.google.com/search?sca_esv=bcc915fd4b92abab&gl=us&q=delivery+coffee+shops+in+San+Francisco&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-F50fzWRvuI63eRJ0n7NGxgZ9oQky5Fz0ZdRB9m_1OPR8MizKJViExlFR7c_aJadihTqEbAO3cDQYieIvIephXbVd3FnhDkfRExhfip3D8YZkZPBSAXujFGveld4mSGuZ7TkB64BBR3DgKdhAv1tXxwGUuGrenJFN5HkU7ggoFfe1dfMRoZt5h-WeOD30UwVWoBT1WvPcoXRQ8VlNx3FQFll8O4M_ov4o9kFZ8Ik2VR0zkl1q&udm=1&sa=X&ved=2ahUKEwja24eq0_qUAxXeLUQIHaytMxcQxKsJKAR6BAgeEAE&ictx=0",
+      "uds": "",
+      "q": "Delivery coffee shops in San Francisco",
+      "thumbnail": ""
+    }
+  ]
+}

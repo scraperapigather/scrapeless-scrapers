@@ -41,7 +41,7 @@ node nodejs/request.mjs      # node
 
 ## Fixtures
 
-- [`results/product.json`](results/product.json) — a compact, parsed view (name, price, stock, rating, shop location, categories) captured from a live `shopee.sg` product run.
+- [`results/product.json`](results/product.json) — a compact view of the `data.data.item` payload (name, price, stock, rating, shop location, categories), hand-trimmed for readability from a live `shopee.sg` run.
 
 ## Fair Use & Legal Disclaimer
 

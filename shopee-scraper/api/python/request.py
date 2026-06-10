@@ -48,5 +48,5 @@ if __name__ == "__main__":
         "Pillow-I-Soft-Pillow-I-Hotel-Pillow-I-Fiber-Pillow-i.261548406.5654105940"
     )
     data = scrape_shopee(url)
-    # `result` is the parsed structured object; `html` is the full rendered page.
-    print(json.dumps(data.get("result", data), indent=2, ensure_ascii=False))
+    # The poll envelope carries the product under data["data"]["item"].
+    print(json.dumps(data, indent=2, ensure_ascii=False))

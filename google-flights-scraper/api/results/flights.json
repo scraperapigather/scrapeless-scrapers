@@ -1,0 +1,482 @@
+{
+  "_note": "Real capture from a live scraper.google.flights round-trip run (LHR->JFK, 2026-06-20 / 2026-06-27, type=1). Trimmed for readability: departure_token base64 strings shortened; other_flights cut from 21 entries to 2; price_insights.price_history cut from 61 points to 6. best_flights kept in full. See DATA_MODEL.md for the trims.",
+  "flights_result": {
+    "best_flights": [
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Heathrow Airport",
+              "id": "LHR",
+              "time": "2026-06-20 8:40"
+            },
+            "arrival_airport": {
+              "name": "Boston Logan International Airport",
+              "id": "BOS",
+              "time": "2026-06-20 11:34"
+            },
+            "duration": 474,
+            "airplane": "Airbus A321neo",
+            "airline": "JetBlue",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+            "travel_class": "",
+            "flight_number": "B6 1621",
+            "extensions": [
+              "Above average legroom (32 in)",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Free Wi-Fi",
+              "Emissions estimate: 531 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "32 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          },
+          {
+            "departure_airport": {
+              "name": "Boston Logan International Airport",
+              "id": "BOS",
+              "time": "2026-06-20 16:04"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2026-06-20 17:25"
+            },
+            "duration": 81,
+            "airplane": "Airbus A220-300 Passenger",
+            "airline": "JetBlue",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+            "travel_class": "",
+            "flight_number": "B6 317",
+            "extensions": [
+              "Above average legroom (32 in)",
+              "In-seat power & USB outlets",
+              "Live TV",
+              "Free Wi-Fi",
+              "Emissions estimate: 68 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "32 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 270,
+            "name": "Boston Logan International Airport",
+            "id": "BOS",
+            "overnight": false
+          }
+        ],
+        "total_duration": 825,
+        "carbon_emissions": {
+          "this_flight": 600000,
+          "typical_for_this_route": 327000,
+          "difference_percent": 83
+        },
+        "price": 1022,
+        "type": "",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+        "extensions": null,
+        "departure_token": "WyJDalJJTkZWQ1JUbFhlbk5WWmpCQlJG...==<trimmed: ~280-char base64 departure_token>"
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Heathrow Airport",
+              "id": "LHR",
+              "time": "2026-06-20 11:55"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2026-06-20 15:25"
+            },
+            "duration": 510,
+            "airplane": "Airbus A321neo",
+            "airline": "JetBlue",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+            "travel_class": "",
+            "flight_number": "B6 20",
+            "extensions": [
+              "Above average legroom (32 in)",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Free Wi-Fi",
+              "Emissions estimate: 536 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "32 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          }
+        ],
+        "layovers": null,
+        "total_duration": 510,
+        "carbon_emissions": {
+          "this_flight": 537000,
+          "typical_for_this_route": 327000,
+          "difference_percent": 64
+        },
+        "price": 1102,
+        "type": "",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+        "extensions": null,
+        "departure_token": "WyJDalJJTkZWQ1JUbFhlbk5WWmpCQlJG...==<trimmed: ~280-char base64 departure_token>"
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Heathrow Airport",
+              "id": "LHR",
+              "time": "2026-06-20 20:05"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2026-06-20 22:50"
+            },
+            "duration": 465,
+            "airplane": "Boeing 787",
+            "airline": "Virgin Atlantic",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VS.png",
+            "travel_class": "",
+            "flight_number": "VS 25",
+            "extensions": [
+              "Average legroom (31 in)",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Wi-Fi for a fee",
+              "Emissions estimate: 277 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "31 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          }
+        ],
+        "layovers": null,
+        "total_duration": 465,
+        "carbon_emissions": {
+          "this_flight": 278000,
+          "typical_for_this_route": 327000,
+          "difference_percent": -15
+        },
+        "price": 1120,
+        "type": "",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VS.png",
+        "extensions": null,
+        "departure_token": "WyJDalJJTkZWQ1JUbFhlbk5WWmpCQlJG...==<trimmed: ~280-char base64 departure_token>"
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Heathrow Airport",
+              "id": "LHR",
+              "time": "2026-06-20 8:15"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2026-06-20 11:29"
+            },
+            "duration": 494,
+            "airplane": "Airbus A321neo",
+            "airline": "JetBlue",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+            "travel_class": "",
+            "flight_number": "B6 2220",
+            "extensions": [
+              "Above average legroom (32 in)",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Free Wi-Fi",
+              "Emissions estimate: 536 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "32 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          }
+        ],
+        "layovers": null,
+        "total_duration": 494,
+        "carbon_emissions": {
+          "this_flight": 537000,
+          "typical_for_this_route": 327000,
+          "difference_percent": 64
+        },
+        "price": 1155,
+        "type": "",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+        "extensions": null,
+        "departure_token": "WyJDalJJTkZWQ1JUbFhlbk5WWmpCQlJG...==<trimmed: ~280-char base64 departure_token>"
+      }
+    ],
+    "other_flights": [
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Heathrow Airport",
+              "id": "LHR",
+              "time": "2026-06-20 13:00"
+            },
+            "arrival_airport": {
+              "name": "Raleigh-Durham International Airport",
+              "id": "RDU",
+              "time": "2026-06-20 16:35"
+            },
+            "duration": 515,
+            "airplane": "Boeing 777",
+            "airline": "American",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+            "travel_class": "",
+            "flight_number": "AA 173",
+            "extensions": [
+              "Average legroom (31 in)",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Wi-Fi for a fee",
+              "Emissions estimate: 475 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "31 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          },
+          {
+            "departure_airport": {
+              "name": "Raleigh-Durham International Airport",
+              "id": "RDU",
+              "time": "2026-06-20 19:59"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2026-06-20 22:00"
+            },
+            "duration": 121,
+            "airplane": "Embraer 175",
+            "airline": "American",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+            "travel_class": "",
+            "flight_number": "AA 4417",
+            "extensions": [
+              "Average legroom (30 in)",
+              "In-seat power & USB outlets",
+              "Stream media to your device",
+              "Free Wi-Fi",
+              "Emissions estimate: 111 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "30 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 204,
+            "name": "Raleigh-Durham International Airport",
+            "id": "RDU",
+            "overnight": false
+          }
+        ],
+        "total_duration": 840,
+        "carbon_emissions": {
+          "this_flight": 587000,
+          "typical_for_this_route": 327000,
+          "difference_percent": 80
+        },
+        "price": 726,
+        "type": "",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+        "extensions": null,
+        "departure_token": "WyJDalJJTkZWQ1JUbFhlbk5WWmpCQlJG...==<trimmed: ~280-char base64 departure_token>"
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Heathrow Airport",
+              "id": "LHR",
+              "time": "2026-06-20 11:30"
+            },
+            "arrival_airport": {
+              "name": "Adolfo Suárez Madrid-Barajas Airport",
+              "id": "MAD",
+              "time": "2026-06-20 14:55"
+            },
+            "duration": 145,
+            "airplane": "Airbus A320",
+            "airline": "Iberia",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+            "travel_class": "",
+            "flight_number": "IB 716",
+            "extensions": [
+              "Below average legroom (28 in)",
+              "In-seat USB outlet",
+              "Wi-Fi for a fee",
+              "Emissions estimate: 119 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "28 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          },
+          {
+            "departure_airport": {
+              "name": "Adolfo Suárez Madrid-Barajas Airport",
+              "id": "MAD",
+              "time": "2026-06-20 16:20"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2026-06-20 18:55"
+            },
+            "duration": 515,
+            "airplane": "Airbus A350",
+            "airline": "Iberia",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+            "travel_class": "",
+            "flight_number": "IB 325",
+            "extensions": [
+              "Average legroom (31 in)",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Wi-Fi for a fee",
+              "Emissions estimate: 299 kg CO2e"
+            ],
+            "ticket_also_sold_by": null,
+            "legroom": "31 in",
+            "overnight": false,
+            "often_delayed_by_over_30_min": false
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 85,
+            "name": "Adolfo Suárez Madrid-Barajas Airport",
+            "id": "MAD",
+            "overnight": false
+          }
+        ],
+        "total_duration": 745,
+        "carbon_emissions": {
+          "this_flight": 419000,
+          "typical_for_this_route": 327000,
+          "difference_percent": 28
+        },
+        "price": 1065,
+        "type": "",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/IB.png",
+        "extensions": null,
+        "departure_token": "WyJDalJJTkZWQ1JUbFhlbk5WWmpCQlJG...==<trimmed: ~280-char base64 departure_token>"
+      }
+    ],
+    "price_insights": {
+      "lowest_price": 726,
+      "price_level": "normal",
+      "typical_price_range": [
+        660,
+        890
+      ],
+      "price_history": [
+        [
+          1775775600,
+          907
+        ],
+        [
+          1775862000,
+          975
+        ],
+        [
+          1775948400,
+          966
+        ],
+        [
+          1776034800,
+          867
+        ],
+        [
+          1776121200,
+          840
+        ],
+        [
+          1776207600,
+          847
+        ]
+      ]
+    },
+    "airports": [
+      {
+        "departure": [
+          {
+            "airport": {
+              "id": "LHR",
+              "name": "Heathrow Airport"
+            },
+            "city": "London",
+            "country": "United Kingdom",
+            "country_ode": "GB",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+          }
+        ],
+        "arrival": [
+          {
+            "airport": {
+              "id": "JFK",
+              "name": "John F. Kennedy International Airport"
+            },
+            "city": "New York",
+            "country": "United States",
+            "country_ode": "US",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa1dwH1NZQk4dsbPiyA9Vrq2RX75jXSZ-OkHn7NkLHl-11HercqDXoZ4p2cDxJkH6vca2degawrCzHEQ",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaUa9NsdPWGpAUGkTApkZDT_4M6_6V8wTcC0v1b1wJAJX-BuMSiipXbsoznGgcI1xLOc5QiTcR_xovexgjdOz0gqQe0tRQ9h0bUkZ07Q"
+          }
+        ]
+      },
+      {
+        "departure": [
+          {
+            "airport": {
+              "id": "JFK",
+              "name": "John F. Kennedy International Airport"
+            },
+            "city": "New York",
+            "country": "United States",
+            "country_ode": "US",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa1dwH1NZQk4dsbPiyA9Vrq2RX75jXSZ-OkHn7NkLHl-11HercqDXoZ4p2cDxJkH6vca2degawrCzHEQ",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaUa9NsdPWGpAUGkTApkZDT_4M6_6V8wTcC0v1b1wJAJX-BuMSiipXbsoznGgcI1xLOc5QiTcR_xovexgjdOz0gqQe0tRQ9h0bUkZ07Q"
+          }
+        ],
+        "arrival": [
+          {
+            "airport": {
+              "id": "LHR",
+              "name": "Heathrow Airport"
+            },
+            "city": "London",
+            "country": "United Kingdom",
+            "country_ode": "GB",
+            "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpN9RbtOSTDqKIPxWc_D6rdSysaWVh6d-NW7yz7yFXKRwh5RN5BpNIoXEwH1XVcFdLWqn6Sm8_Y_zmeg",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYH83YXny8hR4M7k5BMFq4vUT6LNtVABQzgs2pg-hcpSZq3oMBOQK3xh591AAJv2Qx4uvFZUGqOVt4kuoCUOklISunmndJleOoSef_7QE"
+          }
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "engine": "google.flights",
+    "rawUrl": "https://api.scrapeless.com/storage/scrapeless.scraper.google.flights/07532339806fb813b679f8d5d5229224/c20d9c27214afeffe921d1599b87b834_1781025019.json"
+  }
+}

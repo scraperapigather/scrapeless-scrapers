@@ -1,0 +1,77 @@
+{
+  "cnpj": "33000167000101",
+  "cnpjFormatado": "33.000.167/0001-01",
+  "tipoEstabelecimento": "MATRIZ",
+  "dataAbertura": "28/09/1966",
+  "nomeEmpresarial": "PETROLEO BRASILEIRO S A PETROBRAS",
+  "nomeFantasia": "PETROBRAS - EDISE",
+  "porteDescricao": "DEMAIS",
+  "indicadorStatusDispensa": null,
+  "cnaePrincipal": {
+    "cnaeFormatada": "06.00-0-01 - ExtraÃ§Ã£o de petrÃ³leo e gÃ¡s natural",
+    "codigo": "0600001",
+    "isDispensada": null,
+    "nome": "ExtraÃ§Ã£o de petrÃ³leo e gÃ¡s natural"
+  },
+  "isAtiva": true,
+  "cnaesSecundarias": [
+    {
+      "cnaeFormatada": "19.21-7-00 - FabricaÃ§Ã£o de produtos do refino de petrÃ³leo",
+      "codigo": "1921700",
+      "isDispensada": null,
+      "nome": "FabricaÃ§Ã£o de produtos do refino de petrÃ³leo"
+    },
+    {
+      "cnaeFormatada": "35.20-4-01 - ProduÃ§Ã£o de gÃ¡s; processamento de gÃ¡s natural",
+      "codigo": "3520401",
+      "isDispensada": null,
+      "nome": "ProduÃ§Ã£o de gÃ¡s; processamento de gÃ¡s natural"
+    },
+    {
+      "cnaeFormatada": "35.20-4-02 - DistribuiÃ§Ã£o de combustÃ­veis gasosos por redes urbanas",
+      "codigo": "3520402",
+      "isDispensada": null,
+      "nome": "DistribuiÃ§Ã£o de combustÃ­veis gasosos por redes urbanas"
+    },
+    {
+      "cnaeFormatada": "46.81-8-01 - ComÃ©rcio atacadista de Ã¡lcool carburante, biodiesel, gasolina e demais derivados de petrÃ³leo, exceto lubrificantes, nÃ£o realizado por transportador retalhista (T.R.R.)",
+      "codigo": "4681801",
+      "isDispensada": null,
+      "nome": "ComÃ©rcio atacadista de Ã¡lcool carburante, biodiesel, gasolina e demais derivados de petrÃ³leo, exceto lubrificantes, nÃ£o realizado por transportador retalhista (T.R.R.)"
+    },
+    {
+      "cnaeFormatada": "86.30-5-99 - Atividades de atenÃ§Ã£o ambulatorial nÃ£o especificadas anteriormente",
+      "codigo": "8630599",
+      "isDispensada": null,
+      "nome": "Atividades de atenÃ§Ã£o ambulatorial nÃ£o especificadas anteriormente"
+    }
+  ],
+  "codigoNaturezaJuridica": "203-8",
+  "descricaoNaturezaJuridica": "Sociedade de Economia Mista",
+  "nomeLogradouro": "AV REPUBLICA DO CHILE",
+  "numero": "65",
+  "complemento": "********",
+  "cep": "20.031-170",
+  "bairro": "CENTRO",
+  "municipio": "RIO DE JANEIRO",
+  "uf": "RJ",
+  "nomeSituacaoEspecial": "********",
+  "dataSituacaoEspecial": "********",
+  "codigoSituacaoCadastral": "2",
+  "dataSituacaoCadastral": "03/11/2005",
+  "descricaoMotivoSituacao": " ",
+  "numerosTelefone": "(21) 2166-0000",
+  "codigoOrgaoJurisdicao": "0718500",
+  "descricaoOrgaoJurisdicao": "RIO DE JANEIRO",
+  "indicadorMatriz": "1",
+  "email": "CC-RFISC@PETROBRAS.COM.BR",
+  "descricaoEnteFederativoResponsavel": "UNIÃO",
+  "descricaoSituacaoCadastral": "ATIVA",
+  "valorCapitalSocial": "20543196049052",
+  "valorCapitalSocialFormatado": "205.431.960.490,52",
+  "valorCapitalSocialExtenso": "Duzentos e cinco bilhÃµes, quatrocentos e trinta e um milhÃµes, novecentos e sessenta mil e quatrocentos e noventa reais",
+  "dataEmissaoConsulta": "09/06/2026",
+  "horaEmissaoConsulta": "14:25:49",
+  "houveErroNoServicoDispensa": false,
+  "njPermiteQsa": true
+}

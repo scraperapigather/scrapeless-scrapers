@@ -1,6 +1,6 @@
 # Scrapeless Scrapers
 
-Production-grade example scrapers built on the official [Scrapeless](https://www.scrapeless.com/) SDKs. Every browser-rendered site drives a cloud session through Scrapeless's [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser) over CDP WebSocket; every SERP-style site uses [Deep SerpApi](https://www.scrapeless.com/en/deep-serp-api).
+Production-grade example scrapers built on the official [Scrapeless](https://www.scrapeless.com/) SDKs. Every browser-rendered site drives a cloud session through Scrapeless's [Scraping Browser](https://www.scrapeless.com/en/product/scraping-browser) over CDP WebSocket; every SERP-style site uses [Deep SerpApi](https://www.scrapeless.com/en/product/deep-serp-api).
 
 Every site ships two parallel implementations so you can adopt whichever language fits your stack:
 
@@ -33,6 +33,8 @@ Every example runs end-to-end against the live Scrapeless API and emits schema-v
 | Big Lots | [biglots-scraper](biglots-scraper/) | [py](biglots-scraper/browser/python/) · [node](biglots-scraper/browser/nodejs/) · [cli](biglots-scraper/browser/cli/) · [mcp](biglots-scraper/browser/mcp/) |
 | Bing | [bing-scraper](bing-scraper/) | [py](bing-scraper/browser/python/) · [node](bing-scraper/browser/nodejs/) · [cli](bing-scraper/browser/cli/) · [mcp](bing-scraper/browser/mcp/) |
 | Booking.com | [bookingcom-scraper](bookingcom-scraper/) | [py](bookingcom-scraper/browser/python/) · [node](bookingcom-scraper/browser/nodejs/) · [cli](bookingcom-scraper/browser/cli/) · [mcp](bookingcom-scraper/browser/mcp/) |
+| Brazil CNPJ | [brazil-cnpj-scraper](brazil-cnpj-scraper/) | [api](brazil-cnpj-scraper/api/) |
+| Brazil CPF (Receita) | [brazil-receita-scraper](brazil-receita-scraper/) | [api](brazil-receita-scraper/api/) |
 | Bunnings | [bunnings-scraper](bunnings-scraper/) | [py](bunnings-scraper/browser/python/) · [node](bunnings-scraper/browser/nodejs/) |
 | ChatGPT | [chatgpt-scraper](chatgpt-scraper/) | [py](chatgpt-scraper/browser/python/) · [node](chatgpt-scraper/browser/nodejs/) · [api](chatgpt-scraper/api/) |
 | Craigslist | [craigslist-scraper](craigslist-scraper/) | [py](craigslist-scraper/browser/python/) · [node](craigslist-scraper/browser/nodejs/) · [cli](craigslist-scraper/browser/cli/) · [mcp](craigslist-scraper/browser/mcp/) |
@@ -52,11 +54,17 @@ Every example runs end-to-end against the live Scrapeless API and emits schema-v
 | Google | [google-scraper](google-scraper/) | [py](google-scraper/browser/python/) · [node](google-scraper/browser/nodejs/) · [cli](google-scraper/browser/cli/) · [api](google-scraper/api/) |
 | Google AI Mode | [google-ai-mode-scraper](google-ai-mode-scraper/) | [py](google-ai-mode-scraper/browser/python/) · [node](google-ai-mode-scraper/browser/nodejs/) · [api](google-ai-mode-scraper/api/) |
 | Google AI Overview | [google-ai-overview-scraper](google-ai-overview-scraper/) | [api](google-ai-overview-scraper/api/) |
+| Google Flights | [google-flights-scraper](google-flights-scraper/) | [api](google-flights-scraper/api/) |
 | Google Gemini | [gemini-scraper](gemini-scraper/) | [py](gemini-scraper/browser/python/) · [node](gemini-scraper/browser/nodejs/) · [cli](gemini-scraper/browser/cli/) · [mcp](gemini-scraper/browser/mcp/) · [api](gemini-scraper/api/) |
+| Google Images | [google-images-scraper](google-images-scraper/) | [api](google-images-scraper/api/) |
 | Google Jobs | [google-jobs-scraper](google-jobs-scraper/) | [py](google-jobs-scraper/browser/python/) · [node](google-jobs-scraper/browser/nodejs/) · [cli](google-jobs-scraper/browser/cli/) · [mcp](google-jobs-scraper/browser/mcp/) |
+| Google Local | [google-local-scraper](google-local-scraper/) | [api](google-local-scraper/api/) |
 | Google Maps | [google-maps-scraper](google-maps-scraper/) | [py](google-maps-scraper/browser/python/) · [node](google-maps-scraper/browser/nodejs/) · [cli](google-maps-scraper/browser/cli/) · [mcp](google-maps-scraper/browser/mcp/) |
 | Google News | [google-news-scraper](google-news-scraper/) | [py](google-news-scraper/browser/python/) · [node](google-news-scraper/browser/nodejs/) · [cli](google-news-scraper/browser/cli/) · [mcp](google-news-scraper/browser/mcp/) |
 | Google Play | [google-play-scraper](google-play-scraper/) | [py](google-play-scraper/browser/python/) · [node](google-play-scraper/browser/nodejs/) · [cli](google-play-scraper/browser/cli/) · [mcp](google-play-scraper/browser/mcp/) |
+| Google Scholar | [google-scholar-scraper](google-scholar-scraper/) | [api](google-scholar-scraper/api/) |
+| Google Shopping | [google-shopping-scraper](google-shopping-scraper/) | [api](google-shopping-scraper/api/) |
+| Google Videos | [google-videos-scraper](google-videos-scraper/) | [api](google-videos-scraper/api/) |
 | Grok | [grok-scraper](grok-scraper/) | [py](grok-scraper/browser/python/) · [node](grok-scraper/browser/nodejs/) · [cli](grok-scraper/browser/cli/) · [mcp](grok-scraper/browser/mcp/) · [api](grok-scraper/api/) |
 | Homegate | [homegate-scraper](homegate-scraper/) | [py](homegate-scraper/browser/python/) · [node](homegate-scraper/browser/nodejs/) · [mcp](homegate-scraper/browser/mcp/) |
 | Idealista | [idealista-scraper](idealista-scraper/) | [py](idealista-scraper/browser/python/) · [node](idealista-scraper/browser/nodejs/) · [cli](idealista-scraper/browser/cli/) · [mcp](idealista-scraper/browser/mcp/) |

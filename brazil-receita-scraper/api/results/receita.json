@@ -1,0 +1,5 @@
+{
+  "taxId": "111.444.777-35",
+  "valid": false,
+  "message": "Data de nascimento informada 01/01/1990 está divergente da constante na base de dados da Secretaria da Receita Federal do Brasil. Retorne a página anterior e informe-a novamente. Persistindo esta mensagem, dirija-se a uma unidade dos Correios, Banco do Brasil ou Caixa Econômica Federal. Caso esteja no exterior, dirija-se a uma representação diplomática brasileira. Retorne à página anterior e informe-o novamente!"
+}
